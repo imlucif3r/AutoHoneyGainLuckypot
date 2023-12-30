@@ -1,9 +1,9 @@
 
 # Auto Honeygain Luckypot collector with Notification to ANDROID/iOS Daily
 
-<email> - to your honeygain email address <br>
-<pass> - enter password  <br>
-<subscription> - create custom ntfy subscription from https://ntfy.sh/ and enter the subscriber name <br>
+email - to your honeygain email address <br>
+pass - enter password  <br>
+subscription - create custom ntfy subscription from https://ntfy.sh/ and enter the subscriber name <br>
 
 ## Usage/Examples
 
