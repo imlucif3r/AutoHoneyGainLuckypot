@@ -3,7 +3,7 @@
 
 email - to your honeygain email address <br>
 pass - enter password  <br>
-subscription - create custom ntfy subscription from https://ntfy.sh/ and enter the subscriber name <br>
+subscription - create custom ntfy subscription from [ntfy](https://ntfy.sh/app) and enter the subscriber name <br>
 
 ## Usage/Examples
 
