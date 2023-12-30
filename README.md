@@ -12,3 +12,6 @@ Setup a cronjob as below to run automatically and daily
 7 08 * * * python3 /home/alpha/honeygain.py >> /home/alpha/logs/honeygain.log 2>&1
 ```
 
+## Screenshots
+
+![App Screenshot](https://github.com/imlucif3r/AutoHoneyGain/blob/main/photo_2023-12-30_12-39-23.jpg)
